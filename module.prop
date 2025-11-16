@@ -1,0 +1,6 @@
+id=autoauth_system
+name=AutoAuth System App
+version=1.0
+versionCode=1
+author=EthanDong
+description=Mount AutoAuth as a system privileged app using Magisk.
